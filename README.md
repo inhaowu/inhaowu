@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @inhaowu
-- 👀 I’m interested in algorithm design, machine learning, combinatorial optimization and discrete mathematics.
-- 🌱 I’m currently learning theoretical computer science and  algorithm design.
-- 💞️ I’m looking to collaborate on  C/C++ program, or CUDA C programming. 
-- 📫 How to reach me : My email is inhaowu@163.com , and my Facebook account is 吴寅豪.
+- 👋 Hi, I’m @yinhaowu
+- 👀 I’m interested in deep learning, medical image analysis, multi-modality learning, and discrete mathematics.
+- 📫 How to reach me : My email is inhaowu@gmail.com.
+- 🎾 I'm also a 4.0+ tennis player, once played for college team. 
 
 <!---
 inhaowu/inhaowu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
