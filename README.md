@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yinhaowu
 - 👀 I’m interested in deep learning, medical image analysis, multi-modality learning, and discrete mathematics.
-- 📫 How to reach me : My email is inhaowu@gmail.com.
+- 📫 How to reach me : My email is yxw2120@mavs.uta.edu.
 - 🎾 I'm also a 4.0+ tennis player, once played for college team. 
 
 <!---
